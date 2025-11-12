@@ -6,7 +6,7 @@ class Person:
     
     def __init__(self, person_id: int, name: str, email: str):
         self.person_id = person_id
-        self.name = name
+        self.name = name 
         self.email = email
 
     def display_info(self):
