@@ -117,4 +117,3 @@ class OrderItem:
         self.candy = candy
         self.quantity = quantity
         self.subtotal = candy.price * quantity
-
